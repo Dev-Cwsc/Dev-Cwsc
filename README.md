@@ -23,7 +23,7 @@
 <!--Intro end-->
 
 <!--h1 without bottom border-->
-## <picture><img src = "https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width = 80px></picture>Technologies that i know</h2></summary>
+## <picture><img src = "https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width = 70px></picture>Technologies that i know</h2></summary>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
