@@ -20,7 +20,7 @@
 - 👨🏻‍💻 Junior Full-Stack Developer
 - 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about **C++ & JavaScript**
-- 💼 I'm currently open for a new job opportunity, this is my [resume](https://github.com/Dev-Cwsc/Dev-Cwsc/blob/main/documents/Resume%20-%20Carlos%20Camargos.pdf)
+- 💼 I'm currently open for a new job opportunity, this is my [resume](https://drive.google.com/file/d/132FyqCSbV_-HqmU7D3e4Fc4wdj3Oqrv0/view?usp=sharing)
 <!--Intro end-->
 
 <!--h1 without bottom border-->
