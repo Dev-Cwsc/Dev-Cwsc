@@ -19,7 +19,7 @@
 - 🏫 Computer Engineer by the Federal Institute of Education, Science and Technology of Minas Gerais
 - 👨🏻‍💻 Junior Full-stack Developer
 - 🌱 I’m currently learning Spring Boot
-- 💬 Ask me about **C++ & JavaScript**
+- 💬 Ask me about **C++ & Java**
 <!-- - 💼 I'm currently open for a new job opportunity, this is my [resume](https://drive.google.com/file/d/1mdC4YsLqGSLGzDNkXNScPGmwHy-0kP7Q/view?usp=sharing)
 Intro end-->
 
