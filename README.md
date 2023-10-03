@@ -20,8 +20,8 @@
 - 👨🏻‍💻 Junior Full-Stack Developer
 - 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about **C++ & JavaScript**
-- 💼 I'm currently open for a new job opportunity, this is my [resume](https://drive.google.com/file/d/1mdC4YsLqGSLGzDNkXNScPGmwHy-0kP7Q/view?usp=sharing)
-<!--Intro end-->
+<!-- - 💼 I'm currently open for a new job opportunity, this is my [resume](https://drive.google.com/file/d/1mdC4YsLqGSLGzDNkXNScPGmwHy-0kP7Q/view?usp=sharing)
+Intro end-->
 
 <!--h1 without bottom border-->
 ## <picture><img src = "https://github.com/Dev-Cwsc/Dev-Cwsc/blob/main/img/beemo.gif" width = 70px></picture>Technologies that i know</h2></summary>
